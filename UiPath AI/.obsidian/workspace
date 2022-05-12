@@ -7,8 +7,12 @@
         "id": "d9623ca34b89a651",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pipelines.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,13 @@
     "collapsed": true
   },
   "active": "d9623ca34b89a651",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pipelines.md",
+    "Datasets.md",
+    "UIPath interface.md",
+    "pictures/Pasted image 20220511125824.png",
+    "UiPath AI.md",
+    "pictures/Pasted image 20220510133251.png",
+    "Identifying Use Cases.md"
+  ]
 }
